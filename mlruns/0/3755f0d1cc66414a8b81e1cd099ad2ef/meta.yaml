@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/3755f0d1cc66414a8b81e1cd099ad2ef/artifacts
+end_time: 1729430923121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3755f0d1cc66414a8b81e1cd099ad2ef
+run_name: suave-ant-371
+run_uuid: 3755f0d1cc66414a8b81e1cd099ad2ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729430922529
+status: 3
+tags: []
+user_id: mdayanarshad

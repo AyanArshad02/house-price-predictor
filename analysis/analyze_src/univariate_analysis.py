@@ -116,16 +116,16 @@ class UnivariateAnalyzer:
 
 # Example usage
 if __name__ == "__main__":
-    # Example usage of the UnivariateAnalyzer with different strategies.
+    # # Example usage of the UnivariateAnalyzer with different strategies.
 
-    # Load the data
-    # df = pd.read_csv('../extracted-data/your_data_file.csv')
+    # # Load the data
+    # df = pd.read_csv('extracted_data/AmesHousing.csv')
 
-    # Analyzing a numerical feature
+    # # Analyzing a numerical feature
     # analyzer = UnivariateAnalyzer(NumericalUnivariateAnalysis())
     # analyzer.execute_analysis(df, 'SalePrice')
 
-    # Analyzing a categorical feature
+    # # Analyzing a categorical feature
     # analyzer.set_strategy(CategoricalUnivariateAnalysis())
     # analyzer.execute_analysis(df, 'Neighborhood')
     pass

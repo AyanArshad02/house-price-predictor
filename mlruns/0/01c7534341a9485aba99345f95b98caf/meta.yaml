@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/01c7534341a9485aba99345f95b98caf/artifacts
+end_time: 1729412973181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01c7534341a9485aba99345f95b98caf
+run_name: thoughtful-elk-67
+run_uuid: 01c7534341a9485aba99345f95b98caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729412967136
+status: 3
+tags: []
+user_id: mdayanarshad

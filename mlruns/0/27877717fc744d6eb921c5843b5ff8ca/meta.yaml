@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/27877717fc744d6eb921c5843b5ff8ca/artifacts
+end_time: 1729431941558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27877717fc744d6eb921c5843b5ff8ca
+run_name: capable-dolphin-230
+run_uuid: 27877717fc744d6eb921c5843b5ff8ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729431941167
+status: 3
+tags: []
+user_id: mdayanarshad
